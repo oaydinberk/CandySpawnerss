@@ -1,0 +1,70 @@
+spawnerler:
+  tas:
+    cc: 1
+    sure: 5 #Saniye Cinsinden
+    ismi: "§7Taş Spawner"
+    lore:
+      - "§7» Bu sandık özel bir §7Taş§7 çağırıcısıdır."
+      - "§7» Kaynak toplamak için mükemmel!"
+      - ""
+      - "§7» §6Yumurtalama Süresi§e 5 Saniye"
+    items:
+      - stone
+  demir:
+    cc: 1
+    sure: 7 #Saniye Cinsinden
+    ismi: "§fDemir Spawner"
+    lore:
+      - "§7» Bu sandık özel bir §fDemir§7 çağırıcısıdır."
+      - "§7» Kaynak toplamak için mükemmel!"
+      - ""
+      - "§7» §6Yumurtalama Süresi§e 7 Saniye"
+    items:
+      - iron_ingot
+  altin:
+    cc: 1
+    sure: 30 #Saniye Cinsinden
+    ismi: "§6Altın Spawner"
+    lore:
+      - "§7» Bu sandık özel bir §6Altın§7 çağırıcısıdır."
+      - "§7» Zenginleşmek için mükemmel!"
+      - ""
+      - "§7» §6Yumurtalama Süresi§e 20 Saniye"
+    items:
+      - gold_ingot
+  zumrut:
+    cc: 1
+    sure: 165 #Saniye Cinsinden
+    ismi: "§aZümrüt Spawner"
+    lore:
+      - "§7» Bu sandık özel bir §aZümrüt§7 çağırıcısıdır."
+      - "§7» Yere koy ve gücünü gör!"
+      - ""
+      - "§7» §6Yumurtalama Süresi§e 165 Saniye"
+    items:
+      - emerald
+  elmas:
+    cc: 1
+    sure: 220 #Saniye Cinsinden
+    ismi: "§bElmas Spawner"
+    lore:
+      - "§7» Bu sandık özel bir §bElmas§7 çağırıcısıdır."
+      - "§7» Yere koy ve gücünü gör!"
+      - ""
+      - "§7» §6Yumurtalama Süresi§e 220 Saniye"
+    items:
+      - diamond
+  ultra:
+    cc: 1
+    sure: 280 #Saniye Cinsinden
+    ismi: "§cUltra Spawner"
+    lore:
+      - "§7» Bu sandık özel §cMadenleri§7 çağırır."
+      - "§7» Mıknatısı sadece değerli madenleri toplar!"
+      - "§7» §6Altın, §aZümrüt, §bElmas"
+      - ""
+      - "§7» §6Yumurtalama Süresi§e 280 Saniye"
+    items:
+      - gold_ingot
+      - emerald
+      - diamond
